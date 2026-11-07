@@ -1,5 +1,7 @@
 ## Bài học: 
 
+Từ abstract trong bài học này là "tóm tắt". 
+
 Trong LaTeX, các lớp tài liệu học thuật như **`article`** (bài báo) hay **`report`** (báo cáo), luôn có phần được gọi “tóm tắt”.
 
 Để viết phần tóm tắt, người dùng cần sử dụng môi trường `abtract` với cú pháp sau. 
