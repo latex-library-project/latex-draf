@@ -1,4 +1,6 @@
-# Giới thiệu 
+## Bài học:
+
+### Giới thiệu 
 
 (Đối với phần thư mục thì trình bày mức cơ bản ở đoạn đầu tài liệu, để giúp mọi người hình dung được ban đầu, còn nâng cao sẽ trình bày sau các bài học, và nó sẽ trả lời câu hỏi quan trọng là khi nào thi ta nên sử dụng cách sắp xếp thư mục này . . . và sau đó mới đến như thế nào để hướng dẫn người dùng cách sử dụng nó
 
@@ -15,7 +17,7 @@ Phần này sẽ trình bày về cấu trúc của:
 + Soạn thảo văn bản (căn bản) 
 + Lệnh (căn bản)
 
-## Cấu trúc lệnh và môi trường cơ bản của LaTeX
+### Cấu trúc lệnh và môi trường cơ bản của LaTeX
 
 Cơ bản là sử dụng các từ quen thuộc đi kèm với dấu \ .
 
@@ -39,7 +41,7 @@ Tổng hợp các lệnh và môi trường ở đây: https://www.tug.org/texni
 
 **Câu hỏi**: Vậy sự khác nhau giữa lệnh và môi trường là gì ? 
 
-## Cấu trúc soạn thảo LaTeX
+### Cấu trúc soạn thảo LaTeX
 
 Từ cấu trúc lệnh và môi trường cơ bản của LaTeX trên ta có một cấu trúc toàn cục (global structure) trong phần soạn thảo LaTeX từ đoạn mã sau.  
 
@@ -56,7 +58,7 @@ Bên trong môi trường `document` là nơi ta viết nội dung chính, mà k
 Còn ở giữa lệnh `\documentclass` và môi trường `document` được gọi là **preamble** (tạm dịch là vùng lời tựa). 
 
 
-## Cấu trúc thư mục cho các tệp LaTeX 
+### Cấu trúc thư mục cho các tệp LaTeX 
 
 Gồm: 
 
