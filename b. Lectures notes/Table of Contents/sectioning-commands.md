@@ -1,3 +1,7 @@
+## Bài học: 
+
+Sectioning commands: tạm dịch là lệnh phân cấp. 
+
 Đối với các lớp tài liệu (`documentclass`) như `article`, `proc`, `report`, `book`, `beamer`, chúng đều có các lệnh phân cấp nhằm tạo [mục lục]() để sắp xếp nội dung. 
 
 Các lệnh phân cấp này không đứng ngang hàng với nhau, mà được sắp xếp theo một thứ tự ưu tiên từ cao xuống thấp
@@ -93,3 +97,5 @@ Nếu như người dùng không muốn các tiêu đề trước nó được �
 ```
 
 thì tiêu đề của mục "Phương pháp nghiên cứu" ở chương 2, sẽ chỉ hiển thị chữ **"Phương pháp nghiên cứu"** mà không có số `2.1` ở phía trước như trong đoạn mã trước đó. 
+
+## Câu hỏi: 

@@ -1,4 +1,6 @@
- Một số thông tin cơ bản mà người dùng cần thêm vào tài liệu khi viết bài báo, ...vv..  bao gồm:
+## Bài học: 
+
+Một số thông tin cơ bản mà người dùng cần thêm vào tài liệu khi viết bài báo, ...vv..  bao gồm:
 - Tiêu đề tài liệu/bài viết
 - Tác giả
 - Ngày/tháng/năm (hoặc cũng có thể chỉ cần tháng/năm) xuất bản 
@@ -119,3 +121,4 @@ Người dùng cũng có thể sử dụng điều này để trình bày nhiề
 </div>
 
 
+## Câu hỏi: 
