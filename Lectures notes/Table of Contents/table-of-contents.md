@@ -1,3 +1,5 @@
+## Bài học:
+
 Để tạo mục lục trong tài liệu đối với một số lớp tài liệu có thể được sử dụng [lệnh phân cấp](), người sử dụng lệnh 
 
 ```latex
@@ -97,3 +99,20 @@ Nếu như tiêu đề người dùng viết quá dài, chúng sẽ bị . . . k
 ```
 
 Người dùng có thể thấy tiêu đề ở ví dụ . . . đã được rút ngắn, gọn gàng lại khi hiện ở phần mục lục trong trang tài liệu.   
+
+--- 
+
+
+### Ý thứ . . .: ?
+
+Lỗi (màu vàng): 
+
+```latex
+\section{Axiom, theorem $\dots$}
+```
+
+Cách sửa 
+
+```latex
+ \section{Axiom, theorem \texorpdfstring{$\dots$}{...}}
+```
